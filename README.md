@@ -12,13 +12,13 @@
 
 - 📫 How to reach me **magendrananandhan99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11DZWFV11KhNk7-U-o-LbinHGZSHYhqmP/view?usp=sharing](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vwryP8Wp2GZ9MbaCqtjVtemrHYv_zh0E/view](https://drive.google.com/drive/my-drive)
 
 - ⚡ Fun fact **ethical hacking 👨🏽‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/magendran99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murali-m-v" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/magendran99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magendran-v-a" height="30" width="40" /></a>
 
 </p>
 
