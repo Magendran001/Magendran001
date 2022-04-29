@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **magendrananandhan99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vwryP8Wp2GZ9MbaCqtjVtemrHYv_zh0E/view](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vwryP8Wp2GZ9MbaCqtjVtemrHYv_zh0E/view]
 
 - ⚡ Fun fact **ethical hacking 👨🏽‍💻**
 
